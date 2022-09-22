@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Hrithik Sharma</h1>
 <h3 align="center">A Data Scientist and A passionate application, web developer from India</h3>
 
+- 🔭 I’m currently working on data science and Machine learning
+- 🌱 I’m currently learning deep learning models
+- 👯 I’m looking to collaborate with MAANG MNC's
+- 💬 Ask me about on my [instagram](https://www.instagram.com/error404_compiled)
+- 📫 How to reach me: hrihtiksharma900@gmail.com
+- ⚡ Fun fact: Grinding stuffs
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=error404compiled&label=Profile%20views&color=0e75b6&style=flat" alt="error404compiled" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=error404compiled" alt="error404compiled" /></a> </p>
@@ -43,12 +51,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on data science and Machine learning
+- 🌱 I’m currently learning deep learning models
+- 👯 I’m looking to collaborate with MAANG MNC's
+- 💬 Ask me about on my [instagram](https://www.instagram.com/error404_compiled)
+- 📫 How to reach me: hrihtiksharma900@gmail.com
+- ⚡ Fun fact: Grinding stuffs
 -->
