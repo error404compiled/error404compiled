@@ -8,18 +8,11 @@
 - 📫 How to reach me: hrihtiksharma900@gmail.com
 - ⚡ Fun fact: Grinding stuffs
 
-<h1 align="center">Hi 👋, I'm Hrithik Sharma</h1>
-<h3 align="center">A Data Scientist and A passionate application, web developer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=error404compiled&label=Profile%20views&color=0e75b6&style=flat" alt="error404compiled" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=error404compiled" alt="error404compiled" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@_error400_" target="blank"><img src="https://img.shields.io/twitter/follow/@_error400_?logo=twitter&style=for-the-badge" alt="@_error400_" /></a> </p>
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,7 +21,7 @@
 <a href="https://stackoverflow.com/users/15662644" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15662644" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/rock.sharma.94849/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/rock.sharma.94849/" height="30" width="40" /></a>
 <a href="https://instagram.com/error404_compiled" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="error404_compiled" height="30" width="40" /></a>
-<a href="[https://medium.com/@hrithiksharma900](https://hrithiksharma900.medium.com/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="[@hrithiksharma900](https://hrithiksharma900.medium.com/)" height="30" width="40" /></a>
+<a href="https://medium.com/@hrithiksharma900" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hrithiksharma900" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucjksln45heylry0i9j0r1cq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucjksln45heylry0i9j0r1cq" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/ready4u" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ready4u" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/hrithiksharma900" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/hrithiksharma900" height="30" width="40" /></a>
