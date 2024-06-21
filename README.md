@@ -7,7 +7,7 @@
 - 💬 Ask me about on my [instagram](https://www.instagram.com/error404_compiled)
 - 📫 How to reach me: hrihtiksharma900@gmail.com
 - ⚡ Fun fact: Grinding stuffs
-
+<!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=error404compiled&label=Profile%20views&color=0e75b6&style=flat" alt="error404compiled" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=error404compiled" alt="error404compiled" /></a> </p>
