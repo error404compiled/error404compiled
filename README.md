@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Hrithik Sharma</h1>
 <h3 align="center">A Data Scientist and A passionate application, web developer from India</h3>
 
-- 🔭 I’m currently working on data science and Machine learning
-- 🌱 I’m currently learning deep learning models
+- 🔭 I’m currently working on data science and Machine learning 
+- 🌱 I'm currently experiencing what it's like to work in the corporate world.
 - 👯 I’m looking to collaborate with MAANG MNC's
 - 💬 Ask me about on my [instagram](https://www.instagram.com/error404_compiled)
 - 📫 How to reach me: hrihtiksharma900@gmail.com
-- ⚡ Fun fact: Grinding stuffs
+- ⚡ Grinding stuffs
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=error404compiled&label=Profile%20views&color=0e75b6&style=flat" alt="error404compiled" /> </p>
 
